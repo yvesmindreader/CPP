@@ -1,0 +1,10 @@
+c:\users\zhangy4.diebold_master\documents\visual studio 2010\Projects\SortingCollection\SortingCollection\bin\Debug\SortingCollection.exe
+c:\users\zhangy4.diebold_master\documents\visual studio 2010\Projects\SortingCollection\SortingCollection\bin\Debug\SortingCollection.pdb
+c:\users\zhangy4.diebold_master\documents\visual studio 2010\Projects\SortingCollection\SortingCollection\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zhangy4.diebold_master\documents\visual studio 2010\Projects\SortingCollection\SortingCollection\obj\x86\Debug\SortingCollection.exe
+c:\users\zhangy4.diebold_master\documents\visual studio 2010\Projects\SortingCollection\SortingCollection\obj\x86\Debug\SortingCollection.pdb
+C:\Users\zhangy4.DIEBOLD_MASTER\Documents\Visual Studio 2010\Projects\1\SortingCollection\obj\x86\Debug\SortingCollection.exe
+C:\Users\zhangy4.DIEBOLD_MASTER\Documents\Visual Studio 2010\Projects\1\SortingCollection\obj\x86\Debug\SortingCollection.pdb
+C:\Users\zhangy4.DIEBOLD_MASTER\Documents\Visual Studio 2010\Projects\1\SortingCollection\bin\Debug\SortingCollection.exe
+C:\Users\zhangy4.DIEBOLD_MASTER\Documents\Visual Studio 2010\Projects\1\SortingCollection\bin\Debug\SortingCollection.pdb
+C:\Users\zhangy4.DIEBOLD_MASTER\Documents\Visual Studio 2010\Projects\1\SortingCollection\obj\x86\Debug\ResolveAssemblyReference.cache
